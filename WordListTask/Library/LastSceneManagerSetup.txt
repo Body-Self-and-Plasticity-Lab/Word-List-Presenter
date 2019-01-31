@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Simple Word List/Scenes/Word List Demo.unity
+  isLoaded: 1
+  isActive: 1
